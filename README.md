@@ -1,2 +1,2 @@
 # Video-speed-controller
-[open](lapusto.github.io/Video-speed-controller)
+[open](https://lapusto.github.io/Video-speed-controller)
